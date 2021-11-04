@@ -1,2 +1,2 @@
-# Machine Learning - Ciencia de Dados-UTFPR
- Atividades práticas da disciplina de Introdução ao Reconhecimento de Padrões
+# Machine Learning - Data Science-UTFPR
+ Practical activities from the course "Introduction to pattern recognition" of the Data Science postgraduate degree
